@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-solution-eDTrZkuM0L)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-solution-dF-2srj4LF](https://www.frontendmentor.io/solutions/stats-preview-solution-dF-2srj4LF)
 - Live Site URL: [https://sebastianfgarcia.github.io/Stats-card-frontend-mentor/](https://sebastianfgarcia.github.io/Stats-card-frontend-mentor/)
 
 ## My process

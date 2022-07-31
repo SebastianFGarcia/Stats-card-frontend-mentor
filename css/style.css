@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 16px;
+}
+
+body {
+  background-color: hsl(233deg, 47%, 7%);
+  color: hsl(0deg, 0%, 100%);
+}
+body .container {
+  width: 335px;
+  margin: 60px auto;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: hsl(244deg, 38%, 16%);
+}
+body .container .img {
+  background-color: hsl(277deg, 64%, 61%);
+}
+body .container .img picture img {
+  display: block;
+  width: 100%;
+  mix-blend-mode: multiply;
+}
+body .container .container-body {
+  text-align: center;
+  padding: 20px;
+}
+body .container .container-body .title {
+  padding: 10px;
+  font-size: 1.8em;
+  font-family: "Inter", sans-serif;
+}
+body .container .container-body .title span {
+  font-size: 1em;
+  font-family: "Inter", sans-serif;
+  color: hsl(277deg, 64%, 61%);
+}
+body .container .container-body .description {
+  padding: 10px;
+  color: hsla(0deg, 0%, 100%, 0.75);
+  font-family: "Inter", sans-serif;
+  line-height: 1.4em;
+}
+body .container .container-body .info {
+  text-transform: uppercase;
+}
+body .container .container-body .info .box {
+  padding: 10px;
+}
+body .container .container-body .info .box .number {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+  padding-bottom: 5px;
+}
+body .container .container-body .info .box .name {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 0.9em;
+  color: hsla(0deg, 0%, 100%, 0.6);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+@media (min-width: 1044px) {
+  body .container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 1024px;
+    margin-top: 150px;
+  }
+  body .container .img {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+  body .container .container-body {
+    padding: 60px 80px 0px 40px;
+    text-align: left;
+  }
+  body .container .container-body .title {
+    font-size: 2.2em;
+  }
+  body .container .container-body .info {
+    padding-top: 50px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+}/*# sourceMappingURL=style.css.map */

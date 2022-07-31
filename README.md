@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-solution-eDTrZkuM0L)
-- Live Site URL: [https://sebastianfgarcia.github.io/qr-code-frontend-mentor/](https://sebastianfgarcia.github.io/qr-code-frontend-mentor/)
+- Live Site URL: [https://sebastianfgarcia.github.io/Stats-card-frontend-mentor/](https://sebastianfgarcia.github.io/Stats-card-frontend-mentor/)
 
 ## My process
 
